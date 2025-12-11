@@ -42,7 +42,7 @@ body {
 }
 
 .bg-cloudy {
-  background: linear-gradient(135deg, #6D7278 0%, #8a9a98 50%, #561C24 100%);
+  background: #561C24
 }
 
 .bg-clear {

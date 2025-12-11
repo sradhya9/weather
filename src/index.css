@@ -374,27 +374,27 @@ body {
 }
 
 .bg-default {
-  background: linear-gradient(135deg, #561c24 0% 100%);
+ background: #561C24;
 }
 
 .bg-rainy {
-  background: linear-gradient(135deg, #3d4a5c 0%, #4a5568 50%, #561c24 100%);
+  background: #561C24;
 }
 
 .bg-cloudy {
-  background: linear-gradient(135deg, #6d7278 0%, #8a9a98 50%, #561c24 100%);
+  background: #561C24;
 }
 
 .bg-clear {
-  background: linear-gradient(135deg, #d4884f 0%, #e0a561 30%, #c7b7a3 70%, #561c24 100%);
+  background: #561C24;
 }
 
 .bg-stormy {
-  background: linear-gradient(135deg, #2a2b2d 0%, #3e4042 50%, #561c24 100%);
+  background: #561C24;
 }
 
 .bg-snowy {
-  background: linear-gradient(135deg, #d4dae5 0%, #c2d0e8 50%, #c7b7a3 80%, #561c24 100%);
+  background: #561C24;
 }
 
 .gradient-overlay {
@@ -1617,55 +1617,7 @@ body {
   transition: background 0.6s ease;
   overflow: hidden;
 }
-.bg-default {
-  background:
-    linear-gradient(
-      135deg,
-      #561C24 0%,
-      #561C24 100%);
-}
-.bg-rainy {
-  background:
-    linear-gradient(
-      135deg,
-      #3d4a5c 0%,
-      #4a5568 50%,
-      #561C24 100%);
-}
-.bg-cloudy {
-  background:
-    linear-gradient(
-      135deg,
-      #6D7278 0%,
-      #8a9a98 50%,
-      #561C24 100%);
-}
-.bg-clear {
-  background:
-    linear-gradient(
-      135deg,
-      #d4884f 0%,
-      #e0a561 30%,
-      #C7B7A3 70%,
-      #561C24 100%);
-}
-.bg-stormy {
-  background:
-    linear-gradient(
-      135deg,
-      #2a2b2d 0%,
-      #3e4042 50%,
-      #561C24 100%);
-}
-.bg-snowy {
-  background:
-    linear-gradient(
-      135deg,
-      #d4dae5 0%,
-      #c2d0e8 50%,
-      #C7B7A3 80%,
-      #561C24 100%);
-}
+
 .gradient-overlay {
   position: fixed;
   inset: 0;
